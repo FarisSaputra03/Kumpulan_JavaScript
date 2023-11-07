@@ -386,7 +386,7 @@
       const { pic } = await getPictures(apiKey);
 
       console.log(`
-    token anda adalha: ${token}
+    token anda adalah: ${token}
     apiKey anda adalah: ${apiKey}
     hasil request gambar anda adalah berikut ini: ${pic}`);
     } catch (err) {
